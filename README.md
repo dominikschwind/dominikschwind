@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [...](https://lostfocus.de/2025/12/24/merry-christmas-2/)
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 - [Meet the man archiving Bangkok’s fading history, one YouTube video at a time](https://www.timeout.com/bangkok/museums/meet-the-man-archiving-bangkoks-fading-history-one-youtube-video-at-a-time)
 - [2025-W51: 🕯️ 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/21/2025-w51-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Are we stuck with the same Desktop UX forever? | Ubuntu Summit 25.10](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
 - [2025-W50: 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/14/2025-w50-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 - [2025-W49: 🕯️ 🕯️](https://lostfocus.de/2025/12/07/2025-w49-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
-- [On open protocols – Manu](https://manuelmoreale.com/thoughts/on-open-protocols)
 <!-- POST-LIST:END -->

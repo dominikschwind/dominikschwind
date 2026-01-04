@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Advice for notable people who hate their Wikipedia photo](https://www.claudinec.net/posts/2025-12-23-wikimedia-photos/)
+- [A Website To End All Websites | Henry From Online](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+- [To be quite honest: I could use roughly two to fifty-two weeks for my own…](https://lostfocus.de/2026/01/04/246690/)
 - [Fuck it, let’s do pink](https://lostfocus.de/2026/01/01/fuck-it-lets-do-pink/)
 - [Netflix seems to have some event here](https://dominik.photos/photo/zBYcwP3ZbD)
 - [Same](https://dominik.photos/photo/yxSr3EWPH8)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Planespotting at SGN, again](https://dominik.photos/photo/luDiGAYKIU)
 - [Phins](https://dominik.photos/photo/AgAs1igzRC)
 - [...](https://lostfocus.de/2025/12/24/merry-christmas-2/)
-- [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-- [Meet the man archiving Bangkok’s fading history, one YouTube video at a time](https://www.timeout.com/bangkok/museums/meet-the-man-archiving-bangkoks-fading-history-one-youtube-video-at-a-time)
-- [2025-W51: 🕯️ 🕯️ 🕯️ 🕯️](https://lostfocus.de/2025/12/21/2025-w51-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f-%f0%9f%95%af%ef%b8%8f/)
 <!-- POST-LIST:END -->

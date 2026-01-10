@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
 - [Swiss A340](https://dominik.photos/photo/UAsLWZg9DA)
 - [Swiss A350](https://dominik.photos/photo/b00Zn4Y5Fq)
 - [Swiss A320](https://dominik.photos/photo/UAQLWZg9DA)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Unstructured tidbits from my trip, part one](https://lostfocus.de/2026/01/04/unstructured-tidbits-from-my-trip-part-one/)
 - [2026-W01: Reflections](https://lostfocus.de/2026/01/04/2026-w01-reflections/)
 - [Advice for notable people who hate their Wikipedia photo](https://www.claudinec.net/posts/2025-12-23-wikimedia-photos/)
-- [A Website To End All Websites | Henry From Online](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 <!-- POST-LIST:END -->

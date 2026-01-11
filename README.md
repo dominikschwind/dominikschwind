@@ -7,14 +7,14 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Phở](https://dominik.photos/photo/AHqs1igzRC)
+- [The city at night](https://dominik.photos/photo/OSlJLhNcSb)
+- [Bùi Viện Street](https://dominik.photos/photo/uwU2YK1rnl)
+- [Neon Christmas](https://dominik.photos/photo/V31XmZF31w)
+- [Hard to argue with that](https://dominik.photos/photo/EFLhxLZ9ck)
+- [Beer Music Freedom](https://dominik.photos/photo/gn3HJdmfrX)
 - [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
 - [Swiss A340](https://dominik.photos/photo/UAsLWZg9DA)
 - [Swiss A350](https://dominik.photos/photo/b00Zn4Y5Fq)
 - [Swiss A320](https://dominik.photos/photo/UAQLWZg9DA)
-- [Swiss A320neo](https://dominik.photos/photo/cjhuasQi8r)
-- [Morning Earworm #41: Sailor, Sail On](https://lostfocus.de/2026/01/07/morning-earworm-41-sailor-sail-on/)
-- [The last three episodes of Roderick On The Line &lpar;607: Buffalo Sober, 608: Texting Bitch…](https://lostfocus.de/2026/01/06/247222/)
-- [Unstructured tidbits from my trip, part one](https://lostfocus.de/2026/01/04/unstructured-tidbits-from-my-trip-part-one/)
-- [2026-W01: Reflections](https://lostfocus.de/2026/01/04/2026-w01-reflections/)
-- [Advice for notable people who hate their Wikipedia photo](https://www.claudinec.net/posts/2025-12-23-wikimedia-photos/)
 <!-- POST-LIST:END -->

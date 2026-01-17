@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Oh, the first 24h race of the year is this weekend. The Dubai one is…](https://lostfocus.de/2026/01/16/249342/)
 - [2026-W02: Thermal Shock](https://lostfocus.de/2026/01/11/2026-w02-thermal-shock/)
 - [Phở](https://dominik.photos/photo/AHqs1igzRC)
 - [The city at night](https://dominik.photos/photo/OSlJLhNcSb)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Beer Music Freedom](https://dominik.photos/photo/gn3HJdmfrX)
 - [I managed to reach the finish line in 4th place. Only 20 days after the…](https://lostfocus.de/2026/01/09/247610/)
 - [Swiss A340](https://dominik.photos/photo/UAsLWZg9DA)
-- [Swiss A350](https://dominik.photos/photo/b00Zn4Y5Fq)
 <!-- POST-LIST:END -->

@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W04: Float Redux](https://lostfocus.de/2026/01/25/2026-w04-float-redux/)
+- [Click](https://lostfocus.de/2026/01/25/click/)
 - [If I&#39;m completely honest, I&#39;d really like to be one of those people who build…](https://lostfocus.de/2026/01/18/250228/)
 - [2026-W03: Float](https://lostfocus.de/2026/01/18/2026-w03-float/)
 - [Oh, the first 24h race of the year is this weekend. The Dubai one is…](https://lostfocus.de/2026/01/16/249342/)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [The city at night](https://dominik.photos/photo/OSlJLhNcSb)
 - [Bùi Viện Street](https://dominik.photos/photo/uwU2YK1rnl)
 - [Neon Christmas](https://dominik.photos/photo/V31XmZF31w)
-- [Hard to argue with that](https://dominik.photos/photo/EFLhxLZ9ck)
-- [Beer Music Freedom](https://dominik.photos/photo/gn3HJdmfrX)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W05: Nap Hygiene](https://lostfocus.de/2026/02/01/2026-w05-nap-hygiene/)
 - [New photo](https://dominik.photos/photo/vPfmzDoNU0)
 - [New photo](https://dominik.photos/photo/xz9oCpeNMW)
 - [New photo](https://dominik.photos/photo/9KHFqgRua4)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Morning Earworm #42: It’s That Time](https://lostfocus.de/2026/01/29/morning-earworm-42-its-that-time/)
 - [2026-W04: Float Redux](https://lostfocus.de/2026/01/25/2026-w04-float-redux/)
 - [Click](https://lostfocus.de/2026/01/25/click/)
-- [If I&#39;m completely honest, I&#39;d really like to be one of those people who build…](https://lostfocus.de/2026/01/18/250228/)
 <!-- POST-LIST:END -->

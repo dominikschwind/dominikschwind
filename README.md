@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Wonderful World of Malaysian Food](https://ikanmas.in/)
 - [TIL: RTFM or rather RTFC - if you&#39;re using DDEV for your WordPress project and…](https://lostfocus.de/2026/02/03/250609/)
 - [Linkblog workflow](https://lostfocus.de/2026/02/03/linkblog-workflow/)
 - [The first social network you can trust](https://wedium.social/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Last night I played around with some infrastructure as code for my &lpar;too many&rpar; little…](https://lostfocus.de/2026/02/03/250592/)
 - [You know how I notice that I don&#39;t have good nap/sleep hygiene lately? I just…](https://lostfocus.de/2026/02/03/250588/)
 - [2026-W05: Nap Hygiene](https://lostfocus.de/2026/02/01/2026-w05-nap-hygiene/)
-- [New photo](https://dominik.photos/photo/vPfmzDoNU0)
 <!-- POST-LIST:END -->

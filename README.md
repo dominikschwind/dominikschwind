@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Sharon Zheng](https://sharonzheng.com/)
+- [2026-W07: Small Experiments](https://lostfocus.de/2026/02/15/2026-w07-small-experiments/)
 - [Friday Night DevOps](https://lostfocus.de/2026/02/13/friday-night-devops/)
 - [A little test photo](https://dominik.photos/photo/2f8Y5XM6fr)
 - [The Best Thing on YouTube Is This UK Gameshow](https://www.youtube.com/watch?v=YMmOMfu6znk)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Delusions](https://lostfocus.de/2026/02/12/delusions/)
 - [Discord Leadership Only People On Planet Who Think Adding Age Verification To Discord A Good Idea](https://aftermath.site/discord-age-verification/)
 - [fedi-journal-plugin](https://repos.mxhdr.net/maxheadroom/fedi-journal-plugin)
-- [Day 1 Highlights | 2026 Bahrain Pre-Season Testing](https://www.youtube.com/watch?v=M532UHeOcV4)
-- [Friend?](https://lostfocus.de/2026/02/11/friend/)
 <!-- POST-LIST:END -->

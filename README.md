@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [A programmer&#39;s loss of identity](https://ratfactor.com/tech-nope2)
 - [GUI &gt; CLI](https://lostfocus.de/2026/02/17/gui-cli/)
 - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainer...](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 - [Video in Apple Podcasts - all the details](https://podnews.net/article/video-apple-podcasts-details)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [A little test photo](https://dominik.photos/photo/2f8Y5XM6fr)
 - [The Best Thing on YouTube Is This UK Gameshow](https://www.youtube.com/watch?v=YMmOMfu6znk)
 - [git recent: what branch did I work on?](https://remysharp.com/2026/02/12/git-recent)
-- [Roman Empire](https://lostfocus.de/2026/02/13/roman-empire/)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
 - [Leading thoughts, by Paul Ford](https://www.ftrain.com/leading-thoughts)
 - [2026-W09: Bag](https://lostfocus.de/2026/03/01/2026-w09-bag/)
 - [Firefox AI Killswitch](https://kevquirk.com/firefox-ai-killswitch)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
 - [2026-W08: Alaaf, I guess](https://lostfocus.de/2026/02/22/2026-w08-alaaf-i-guess/)
 - [Citroen DS3 WRC: The fastest rally car ever!](https://www.youtube.com/watch?v=vRjgFf5_vPQ)
-- [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
 - [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
 - [Leading thoughts, by Paul Ford](https://www.ftrain.com/leading-thoughts)
 - [2026-W09: Bag](https://lostfocus.de/2026/03/01/2026-w09-bag/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Psychology of Xennials &lpar;1976 - 1985&rpar;](https://www.youtube.com/watch?v=Pqs0PokPDqo)
 - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
 - [2026-W08: Alaaf, I guess](https://lostfocus.de/2026/02/22/2026-w08-alaaf-i-guess/)
-- [Citroen DS3 WRC: The fastest rally car ever!](https://www.youtube.com/watch?v=vRjgFf5_vPQ)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Blogroll](https://lostfocus.de/2026/03/12/blogroll-3/)
 - [Passerelle](https://dominik.photos/photo/HqrVtlDrOm)
 - [Captain of Industry - Update 4 Launch Trailer](https://www.youtube.com/watch?v=dbaGnGAly6E)
 - [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W09: Bag](https://lostfocus.de/2026/03/01/2026-w09-bag/)
 - [Firefox AI Killswitch](https://kevquirk.com/firefox-ai-killswitch)
 - [People and Blogs: Dominik Schwind](https://manuelmoreale.com/interview/dominik-schwind)
-- [The Mountain](https://lostfocus.de/2026/02/27/the-mountain/)
 <!-- POST-LIST:END -->

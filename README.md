@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
 - [Baker Boy covers BLACKPINK’s ‘JUMP’ for Like A Version](https://www.youtube.com/watch?v=82_refRrG6E)
 - [Morning Earworm #43: Entre Dos Tierras](https://lostfocus.de/2026/03/13/morning-earworm-43-entre-dos-tierras/)
 - [Blogroll](https://lostfocus.de/2026/03/12/blogroll-3/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
 - [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
 - [Leading thoughts, by Paul Ford](https://www.ftrain.com/leading-thoughts)
-- [2026-W09: Bag](https://lostfocus.de/2026/03/01/2026-w09-bag/)
 <!-- POST-LIST:END -->

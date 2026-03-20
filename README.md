@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [How Beer Conquered the World &lpar;Twice&rpar;: From Cavemen to Craft Breweries](https://www.youtube.com/watch?v=ds5rl3EsQBQ)
 - [Hypnotize Catch Catch Bang Bang](https://lostfocus.de/2026/03/17/hypnotize-catch-catch-bang-bang/)
 - [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
 - [Baker Boy covers BLACKPINK’s ‘JUMP’ for Like A Version](https://www.youtube.com/watch?v=82_refRrG6E)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Captain of Industry - Update 4 Launch Trailer](https://www.youtube.com/watch?v=dbaGnGAly6E)
 - [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
 - [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
-- [Time zone shenanigans](https://lostfocus.de/2026/03/02/time-zone-shenanigans/)
 <!-- POST-LIST:END -->

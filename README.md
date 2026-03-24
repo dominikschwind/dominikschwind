@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W12: This and That](https://lostfocus.de/2026/03/23/2026-w12-this-and-that/)
 - [How Beer Conquered the World &lpar;Twice&rpar;: From Cavemen to Craft Breweries](https://www.youtube.com/watch?v=ds5rl3EsQBQ)
 - [Hypnotize Catch Catch Bang Bang](https://lostfocus.de/2026/03/17/hypnotize-catch-catch-bang-bang/)
 - [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Passerelle](https://dominik.photos/photo/HqrVtlDrOm)
 - [Captain of Industry - Update 4 Launch Trailer](https://www.youtube.com/watch?v=dbaGnGAly6E)
 - [2026-W10: Sneeze](https://lostfocus.de/2026/03/09/2026-w10-sneeze/)
-- [Pollen!](https://lostfocus.de/2026/03/04/pollen/)
 <!-- POST-LIST:END -->

@@ -7,14 +7,14 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
-- [dancer.json](https://lostfocus.de/2026/03/26/dancer-json/)
-- [Grievances](https://lostfocus.de/2026/03/25/grievances/)
-- [2026-W12: This and That](https://lostfocus.de/2026/03/23/2026-w12-this-and-that/)
-- [How Beer Conquered the World &lpar;Twice&rpar;: From Cavemen to Craft Breweries](https://www.youtube.com/watch?v=ds5rl3EsQBQ)
-- [Hypnotize Catch Catch Bang Bang](https://lostfocus.de/2026/03/17/hypnotize-catch-catch-bang-bang/)
-- [2026-W11: Rain](https://lostfocus.de/2026/03/15/2026-w11-rain/)
-- [Baker Boy covers BLACKPINK’s ‘JUMP’ for Like A Version](https://www.youtube.com/watch?v=82_refRrG6E)
-- [Morning Earworm #43: Entre Dos Tierras](https://lostfocus.de/2026/03/13/morning-earworm-43-entre-dos-tierras/)
-- [Blogroll](https://lostfocus.de/2026/03/12/blogroll-3/)
-- [Passerelle](https://dominik.photos/photo/HqrVtlDrOm)
+- [2026-W13: Eclair](https://lostfocus.de/2026/03/30/2026-w13-eclair/)
+- [Strasbourg](https://dominik.photos/photo/Y9METxCGlb)
+- [Cerberus](https://dominik.photos/photo/ClpSrJgpzQ)
+- [Stairs](https://dominik.photos/photo/PEeNMcnNFW)
+- [Stickers](https://dominik.photos/photo/Ls7pHOn63V)
+- [Passage](https://dominik.photos/photo/RbreNhrwyV)
+- [Gargoyle](https://dominik.photos/photo/GQWUcnUYI5)
+- [Reflection](https://dominik.photos/photo/sVJ8jaGony)
+- [Hoorgässl](https://dominik.photos/photo/eZt6l8wVqS)
+- [MrBeast Is What Marx Warned Us About](https://www.youtube.com/watch?v=-Hv-be_KdE0)
 <!-- POST-LIST:END -->

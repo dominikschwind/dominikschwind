@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Random morning notes](https://lostfocus.de/2026/04/07/random-morning-notes-2/)
 - [2026-W14: Oeuf](https://lostfocus.de/2026/04/06/2026-w14-oeuf/)
 - [Charlie Day, Who Plays Luigi In The Mario Movies, Shouts Out Alleged United Healthcare CEO Killer Luigi Mangione](https://aftermath.site/charlie-day-mario-movie-luigi-mangione/)
 - [‘Succulent Chinese meal’ speech added to Australia’s National Film and Sound Archive](https://www.theguardian.com/music/2026/mar/31/democracy-manifest-succulent-chinese-meal-speech-australia-national-film-sound-archive)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Stairs](https://dominik.photos/photo/PEeNMcnNFW)
 - [Stickers](https://dominik.photos/photo/Ls7pHOn63V)
 - [Passage](https://dominik.photos/photo/RbreNhrwyV)
-- [Gargoyle](https://dominik.photos/photo/GQWUcnUYI5)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [FR#158 – What is Mastodon for?](https://connectedplaces.online/reports/fr158-what-is-mastodon-for/)
 - [Random morning notes](https://lostfocus.de/2026/04/07/random-morning-notes-2/)
 - [2026-W14: Oeuf](https://lostfocus.de/2026/04/06/2026-w14-oeuf/)
 - [Charlie Day, Who Plays Luigi In The Mario Movies, Shouts Out Alleged United Healthcare CEO Killer Luigi Mangione](https://aftermath.site/charlie-day-mario-movie-luigi-mangione/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Cerberus](https://dominik.photos/photo/ClpSrJgpzQ)
 - [Stairs](https://dominik.photos/photo/PEeNMcnNFW)
 - [Stickers](https://dominik.photos/photo/Ls7pHOn63V)
-- [Passage](https://dominik.photos/photo/RbreNhrwyV)
 <!-- POST-LIST:END -->

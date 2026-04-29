@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
 - [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
 - [Did NASA’s Artemis II mission really do lunar science or go to the Moon for all humanity?](https://jatan.space/moon-monday-issue-271/)
 - [Side projects](https://lostfocus.de/2026/04/23/side-projects/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
 - [2026-W16: Short Runway](https://lostfocus.de/2026/04/21/2026-w16-short-runway/)
 - [新しい学校はすゝむツアー / Full Show](https://www.youtube.com/watch?v=C24PoMiffcM)
-- [Malaysian Cuisine: Making Sense of Southeast Asia&#39;s Most Complicated Food Culture&lpar;s&rpar;](https://www.youtube.com/watch?v=0BScF_gdj8g)
 <!-- POST-LIST:END -->

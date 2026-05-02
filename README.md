@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [🇨🇭](https://dominik.photos/photo/56rQZnCRf8)
+- [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
 - [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
 - [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
 - [Did NASA’s Artemis II mission really do lunar science or go to the Moon for all humanity?](https://jatan.space/moon-monday-issue-271/)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Bubbles](https://lostfocus.de/2026/04/22/251439/)
 - [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
 - [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
-- [2026-W16: Short Runway](https://lostfocus.de/2026/04/21/2026-w16-short-runway/)
-- [新しい学校はすゝむツアー / Full Show](https://www.youtube.com/watch?v=C24PoMiffcM)
 <!-- POST-LIST:END -->

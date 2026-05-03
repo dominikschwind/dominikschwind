@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Alternative thoughts](https://dbushell.com/2026/04/28/alternative-thoughts/)
 - [🇨🇭](https://dominik.photos/photo/56rQZnCRf8)
 - [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
 - [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Banter is the last thing I want from a coffee machine. Yet here we are](https://www.theguardian.com/lifeandstyle/commentisfree/2026/apr/23/my-old-coffee-machine-was-great-i-just-wish-my-new-one-would-shut-up)
 - [Bubbles](https://lostfocus.de/2026/04/22/251439/)
 - [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
-- [Finnish Air Force reprimands cadet pilots for penis-shaped flight patterns](https://yle.fi/a/74-20221623)
 <!-- POST-LIST:END -->

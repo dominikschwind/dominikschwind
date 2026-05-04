@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [AIDHD - AI coding workflow as an exclusion machine](https://thomasorus.com/aidhd-ai-coding-workflow-as-an-exclusion-machine)
+- [2026-W18: Labor](https://lostfocus.de/2026/05/03/2026-w18-labor/)
+- [Ayoade Bamgboye: media training in action | Off Menu with Ed Gamble and James Acaster Podcast](https://www.youtube.com/watch?v=LZWoDGE_7VU)
 - [Alternative thoughts](https://dbushell.com/2026/04/28/alternative-thoughts/)
 - [🇨🇭](https://dominik.photos/photo/56rQZnCRf8)
 - [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
 - [Did NASA’s Artemis II mission really do lunar science or go to the Moon for all humanity?](https://jatan.space/moon-monday-issue-271/)
 - [Side projects](https://lostfocus.de/2026/04/23/side-projects/)
-- [Banter is the last thing I want from a coffee machine. Yet here we are](https://www.theguardian.com/lifeandstyle/commentisfree/2026/apr/23/my-old-coffee-machine-was-great-i-just-wish-my-new-one-would-shut-up)
-- [Bubbles](https://lostfocus.de/2026/04/22/251439/)
-- [South Korea fighter jets collided due to pilots snapping pictures, report finds](https://www.bbc.com/news/articles/czjwz8we1zzo)
 <!-- POST-LIST:END -->

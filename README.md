@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [mcuadros/ofelia: A docker job scheduler &lpar;aka. crontab for docker&rpar;](https://github.com/mcuadros/ofelia)
 - [What I’m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
 - [Some children are drawing on fake moustaches to bypass online age checks, report finds](https://www.aol.com/articles/children-drawing-fake-moustaches-bypass-142603362.html)
 - [AIDHD - AI coding workflow as an exclusion machine](https://thomasorus.com/aidhd-ai-coding-workflow-as-an-exclusion-machine)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [🇨🇭](https://dominik.photos/photo/56rQZnCRf8)
 - [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
 - [How Chinese Food Changed Forever in Malaysia&#39;s Tin Mines](https://www.youtube.com/watch?v=UjAyo2q4Gvs)
-- [2026-W17: Spring](https://lostfocus.de/2026/04/26/2026-w17-spring/)
 <!-- POST-LIST:END -->

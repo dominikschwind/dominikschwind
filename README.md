@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
+- [“… are ready to take your money”](https://www.rubenerd.au/are-ready-to-take-your-money/)
+- [Morning Earworm #44: Things Can Only Get Better](https://lostfocus.de/2026/05/11/morning-earworm-44-things-can-only-get-better/)
 - [2026-W19: May](https://lostfocus.de/2026/05/10/2026-w19-may/)
 - [mcuadros/ofelia: A docker job scheduler &lpar;aka. crontab for docker&rpar;](https://github.com/mcuadros/ofelia)
 - [What I’m Hearing About Cognitive Debt &lpar;So Far&rpar;](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [AIDHD - AI coding workflow as an exclusion machine](https://thomasorus.com/aidhd-ai-coding-workflow-as-an-exclusion-machine)
 - [2026-W18: Labor](https://lostfocus.de/2026/05/03/2026-w18-labor/)
 - [Ayoade Bamgboye: media training in action | Off Menu with Ed Gamble and James Acaster Podcast](https://www.youtube.com/watch?v=LZWoDGE_7VU)
-- [Alternative thoughts](https://dbushell.com/2026/04/28/alternative-thoughts/)
-- [🇨🇭](https://dominik.photos/photo/56rQZnCRf8)
-- [re: Who knows that you blog?](https://lostfocus.de/2026/05/01/re-who-knows-that-you-blog/)
 <!-- POST-LIST:END -->

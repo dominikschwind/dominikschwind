@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [MusicBrainz](https://lostfocus.de/2026/05/16/musicbrainz/)
 - [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
 - [“… are ready to take your money”](https://www.rubenerd.au/are-ready-to-take-your-money/)
 - [Morning Earworm #44: Things Can Only Get Better](https://lostfocus.de/2026/05/11/morning-earworm-44-things-can-only-get-better/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Some children are drawing on fake moustaches to bypass online age checks, report finds](https://www.aol.com/articles/children-drawing-fake-moustaches-bypass-142603362.html)
 - [AIDHD - AI coding workflow as an exclusion machine](https://thomasorus.com/aidhd-ai-coding-workflow-as-an-exclusion-machine)
 - [2026-W18: Labor](https://lostfocus.de/2026/05/03/2026-w18-labor/)
-- [Ayoade Bamgboye: media training in action | Off Menu with Ed Gamble and James Acaster Podcast](https://www.youtube.com/watch?v=LZWoDGE_7VU)
 <!-- POST-LIST:END -->

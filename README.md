@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [delphitools](https://delphi.tools/)
 - [100.000](https://lostfocus.de/2026/05/20/100-000/)
 - [Great](https://lostfocus.de/2026/05/19/great-2/)
 - [Week notes](https://lostfocus.de/2026/05/18/week-notes/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [MusicBrainz](https://lostfocus.de/2026/05/16/musicbrainz/)
 - [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
 - [“… are ready to take your money”](https://www.rubenerd.au/are-ready-to-take-your-money/)
-- [Morning Earworm #44: Things Can Only Get Better](https://lostfocus.de/2026/05/11/morning-earworm-44-things-can-only-get-better/)
 <!-- POST-LIST:END -->

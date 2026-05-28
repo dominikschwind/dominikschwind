@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals](https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/)
 - [Ep. 626: &quot;Chili Dog Meetup&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-626-chili-dog-meetup.html)
 - [2026-W21: Blueberry](https://lostfocus.de/2026/05/24/2026-w21-blueberry/)
 - [delphitools](https://delphi.tools/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Rain](https://dominik.photos/photo/kRrKT9MVfb)
 - [Path](https://dominik.photos/photo/F54GX8NaP3)
 - [2026-W20: Neon](https://lostfocus.de/2026/05/17/2026-w20-neon/)
-- [MusicBrainz](https://lostfocus.de/2026/05/16/musicbrainz/)
 <!-- POST-LIST:END -->

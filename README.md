@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+- [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
 - [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
 - [Could the Outdoor Industry Finally Have an Answer to Its Nylon Problem?](https://www.carryology.com/liking/could-the-outdoor-industry-finally-have-an-answer-to-its-nylon-problem/)
 - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Ep. 626: &quot;Chili Dog Meetup&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-626-chili-dog-meetup.html)
 - [2026-W21: Blueberry](https://lostfocus.de/2026/05/24/2026-w21-blueberry/)
 - [delphitools](https://delphi.tools/)
-- [100.000](https://lostfocus.de/2026/05/20/100-000/)
-- [Great](https://lostfocus.de/2026/05/19/great-2/)
 <!-- POST-LIST:END -->

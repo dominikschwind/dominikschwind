@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 - [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
 - [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals](https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/)
 - [Ep. 626: &quot;Chili Dog Meetup&quot; - Roderick on the Line](https://www.merlinmann.com/roderick/ep-626-chili-dog-meetup.html)
 - [2026-W21: Blueberry](https://lostfocus.de/2026/05/24/2026-w21-blueberry/)
-- [delphitools](https://delphi.tools/)
 <!-- POST-LIST:END -->

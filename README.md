@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Gone for a walk](https://dominik.photos/photo/mNgx3nOJap)
+- [Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/)
+- [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
 - [2026-W22: Classics](https://lostfocus.de/2026/05/31/2026-w22-classics/)
 - [Iron Core](https://lostfocus.de/2026/05/31/iron-core/)
 - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
 - [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
 - [Could the Outdoor Industry Finally Have an Answer to Its Nylon Problem?](https://www.carryology.com/liking/could-the-outdoor-industry-finally-have-an-answer-to-its-nylon-problem/)
-- [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
-- [Metallica im Letzigrund](https://dominik.photos/photo/DYbPsx31Wa)
-- [The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals](https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/)
 <!-- POST-LIST:END -->

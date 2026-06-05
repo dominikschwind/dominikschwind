@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [I Must Attempt to Explain the LEGO Scandal Rocking YouTube, Entire State of Utah](https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/)
+- [Geocoding is complicated](https://lostfocus.de/2026/06/04/geocoding-is-complicated/)
+- [Getting old](https://lostfocus.de/2026/06/04/getting-old/)
 - [Gone for a walk](https://dominik.photos/photo/mNgx3nOJap)
 - [Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name](https://mxsasha.eu/posts/meshcore-xss-home-assistant/)
 - [AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers](https://jackmaguire.org/blog/ai-job-grief/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Iron Core](https://lostfocus.de/2026/05/31/iron-core/)
 - [Six Characters](https://ajitem.com/blog/iron-core-part-2-six-characters/)
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
-- [70s Thai molam Lukthung Disco Mix](https://www.youtube.com/watch?v=TP05jzlQRCY)
-- [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/)
-- [Could the Outdoor Industry Finally Have an Answer to Its Nylon Problem?](https://www.carryology.com/liking/could-the-outdoor-industry-finally-have-an-answer-to-its-nylon-problem/)
 <!-- POST-LIST:END -->

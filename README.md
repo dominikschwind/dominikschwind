@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Golden Triangle](https://lostfocus.de/2026/06/24/the-golden-triangle/)
 - [Sea to Sky Hard Enduro 2025 | Mountain Race | Dieter Rudolf Full Race](https://www.youtube.com/watch?v=Jbqf4x7rmTM)
 - [Summer in the city](https://dominik.photos/photo/QgcA48cIW7)
 - [Rhyschwimme](https://dominik.photos/photo/av6tNvLSUA)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Bon Apetit](https://dominik.photos/photo/p8mklVeMgb)
 - [I Could&#39;ve Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack)
 - [2026-W25: Transport and Sandwiches](https://lostfocus.de/2026/06/21/2026-w25-transport-and-sandwiches/)
-- [Burst: a free &lpar;no ads&rpar; bubble shooter game for iPhone](https://mijndertstuij.nl/posts/created-free-iphone-game-burst/)
 <!-- POST-LIST:END -->

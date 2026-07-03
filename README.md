@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Fan](https://lostfocus.de/2026/07/02/fan/)
+- [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 - [Here comes the rain](https://dominik.photos/photo/QguA48cIW7)
 - [2026-W26: Mute](https://lostfocus.de/2026/06/28/2026-w26-mute/)
 - [Farming is Why Humanity is Fucked](https://brennan.day/farming-is-why-humanity-is-fucked/)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Summer in the city](https://dominik.photos/photo/QgcA48cIW7)
 - [Rhyschwimme](https://dominik.photos/photo/av6tNvLSUA)
 - [Best seats in town](https://dominik.photos/photo/8XuR0I7fEb)
-- [Forgot his Wickelfisch](https://dominik.photos/photo/rogClYtECF)
-- [Cheers](https://dominik.photos/photo/sVN8jaGony)
 <!-- POST-LIST:END -->

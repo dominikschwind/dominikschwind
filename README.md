@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
 - [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 - [Here comes the rain](https://dominik.photos/photo/QguA48cIW7)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Sea to Sky Hard Enduro 2025 | Mountain Race | Dieter Rudolf Full Race](https://www.youtube.com/watch?v=Jbqf4x7rmTM)
 - [Summer in the city](https://dominik.photos/photo/QgcA48cIW7)
 - [Rhyschwimme](https://dominik.photos/photo/av6tNvLSUA)
-- [Best seats in town](https://dominik.photos/photo/8XuR0I7fEb)
 <!-- POST-LIST:END -->

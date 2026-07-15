@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
 - [I&#39;m here to eat wurst and chew gum](https://dominik.photos/photo/oc1lrKdXja)
 - [Morning Earworm #45: I Can’t Stop Me](https://lostfocus.de/2026/07/12/morning-earworm-45-i-cant-stop-me/)
 - [Dinosaurs of the Wild West | Official Kickstarter Trailer &lpar;4K&rpar;](https://www.youtube.com/watch?v=OfsgDuvv_t0)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Homesick for virtual places](https://lostfocus.de/2026/07/06/homesick-for-virtual-places/)
 - [2026-W27: Blur](https://lostfocus.de/2026/07/05/2026-w27-blur/)
 - [Fan](https://lostfocus.de/2026/07/02/fan/)
-- [Too Personal](https://lostfocus.de/2026/07/02/too-personal/)
 <!-- POST-LIST:END -->

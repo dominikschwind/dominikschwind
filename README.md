@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Gojira drummer Mario pulls out of US tour due to &quot;visa issues&quot; – replaced with man named Luigi](https://www.nme.com/news/music/gojira-drummer-mario-pulls-out-of-us-tour-due-to-visa-issues-replaced-with-man-named-luigi-3957623)
 - [Oida](https://dominik.photos/photo/4CHOlu6p4z)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [2026-W28: Passages](https://lostfocus.de/2026/07/14/2026-w28-passages/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Blue](https://dominik.photos/photo/8XhR0I7fEb)
 - [Ze Frank: Get Uncomfortable](https://overcast.fm/+ABXblDu9mR4)
 - [Agent](https://lostfocus.de/2026/07/07/agent/)
-- [Homesick for virtual places](https://lostfocus.de/2026/07/06/homesick-for-virtual-places/)
 <!-- POST-LIST:END -->

@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Bloom in September](https://dominik.photos/photo/NhCzXvxTk8)
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
 - [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [OM System Teases New Pen Series Camera Launch on September 9](https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/)
 - [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
 - [2026-W34: Watch this](https://lostfocus.de/2026/08/23/2026-w34-watch-this/)
-- [B.C. swimmer crosses the Strait of Georgia in under nine hours](https://www.cbc.ca/radio/asithappens/b-c-swimmer-crosses-strait-of-georgia-under-nine-hours-9.7316260)
 <!-- POST-LIST:END -->

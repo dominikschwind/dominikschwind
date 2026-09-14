@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W37: Tedium](https://lostfocus.de/2026/09/13/2026-w37-tedium/)
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 - [Bloom in September](https://dominik.photos/photo/NhCzXvxTk8)
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Karaage chicken](https://dominik.photos/photo/JIZaEBgznC)
 - [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
 - [OM System Teases New Pen Series Camera Launch on September 9](https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/)
-- [Where are your Labubus now?](https://www.youtube.com/watch?v=B-gWe6faCAo)
 <!-- POST-LIST:END -->

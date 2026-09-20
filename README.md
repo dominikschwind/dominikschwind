@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Singapore is paying people to read books – can it fix the reading crisis?](https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme)
+- [Inside a Saigon Studio Bringing Lion Dance Costumes to Life](https://saigoneer.com/saigon-culture/29220-inside-a-saigon-studio-bringing-lion-dance-costumes-to-life)
 - [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
 - [2026-W37: Tedium](https://lostfocus.de/2026/09/13/2026-w37-tedium/)
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
 - [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
 - [2026-W35: Sleep](https://lostfocus.de/2026/08/30/2026-w35-sleep/)
-- [Karaage chicken](https://dominik.photos/photo/JIZaEBgznC)
-- [This interactive atlas captures more than a thousand literary journeys.](https://lithub.com/this-interactive-atlas-captures-more-than-a-thousand-literary-journeys/)
 <!-- POST-LIST:END -->

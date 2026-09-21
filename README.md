@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
+- [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
+- [Kunst!](https://dominik.photos/photo/XWQbb5HTmV)
 - [Singapore is paying people to read books – can it fix the reading crisis?](https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme)
 - [Inside a Saigon Studio Bringing Lion Dance Costumes to Life](https://saigoneer.com/saigon-culture/29220-inside-a-saigon-studio-bringing-lion-dance-costumes-to-life)
 - [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
 - [Bloom in September](https://dominik.photos/photo/NhCzXvxTk8)
 - [2026-W36: Experiment](https://lostfocus.de/2026/09/06/2026-w36-experiment/)
-- [Replacing gift cards with hóngbāo](https://www.rubenerd.au/its-time-to-replace-gift-cards-with-hongbao/)
-- [Nerd-snipe](https://lostfocus.de/2026/08/30/nerd-snipe/)
-- [2026-W35: Sleep](https://lostfocus.de/2026/08/30/2026-w35-sleep/)
 <!-- POST-LIST:END -->

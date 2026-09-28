@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W39: Burn](https://lostfocus.de/2026/09/27/2026-w39-burn/)
 - [Live DJ Mix In An Airbus A320 | JET SET 2 | 2010 Trance Edits](https://youtu.be/rJQpBM-bzjE)
 - [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
 - [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [The Vibes Are Off](https://lostfocus.de/2026/09/17/the-vibes-are-off/)
 - [2026-W37: Tedium](https://lostfocus.de/2026/09/13/2026-w37-tedium/)
 - [Automattic CEO Matt Mullenweg Put on &#39;Leave of Absence&#39;](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
-- [Bloom in September](https://dominik.photos/photo/NhCzXvxTk8)
 <!-- POST-LIST:END -->

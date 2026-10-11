@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Oh, no.](https://lostfocus.de/2026/10/10/oh-no/)
 - [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
 - [A 24-Hour Food Crawl of the &quot;Melbourne of Indonesia&quot;](https://www.youtube.com/watch?v=t9prHQdFqAk)
 - [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Live DJ Mix In An Airbus A320 | JET SET 2 | 2010 Trance Edits](https://youtu.be/rJQpBM-bzjE)
 - [Nish Kumar Names His Celebrity Nemeses](https://www.youtube.com/watch?v=bBLeQVdfOdI)
 - [2026-W38: Some Chuckles, Some Not So Much](https://lostfocus.de/2026/09/20/2026-w38-some-chuckles-some-not-so-much/)
-- [Kunst!](https://dominik.photos/photo/XWQbb5HTmV)
 <!-- POST-LIST:END -->

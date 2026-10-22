@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 - [Winners of the 2026 Epson International Pano Awards](https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/)
 - [Attenzione!](https://dominik.photos/photo/kRjKT9MVfb)
 - [2026-W42: Low-Hanging Clouds](https://lostfocus.de/2026/10/19/2026-w42-low-hanging-clouds/)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W41: Executive Dysfunction](https://lostfocus.de/2026/10/11/2026-w41-executive-dysfunction/)
 - [Oh, no.](https://lostfocus.de/2026/10/10/oh-no/)
 - [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
-- [A 24-Hour Food Crawl of the &quot;Melbourne of Indonesia&quot;](https://www.youtube.com/watch?v=t9prHQdFqAk)
 <!-- POST-LIST:END -->

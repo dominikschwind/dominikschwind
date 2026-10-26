@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W43: Beam Me Up](https://lostfocus.de/2026/10/25/2026-w43-beam-me-up/)
 - [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 - [Winners of the 2026 Epson International Pano Awards](https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/)
 - [Attenzione!](https://dominik.photos/photo/kRjKT9MVfb)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 - [2026-W41: Executive Dysfunction](https://lostfocus.de/2026/10/11/2026-w41-executive-dysfunction/)
 - [Oh, no.](https://lostfocus.de/2026/10/10/oh-no/)
-- [Terry Pratchett and his Discworld](https://shows.acast.com/do-go-on/episodes/572-terry-pratchett-and-his-discworld)
 <!-- POST-LIST:END -->

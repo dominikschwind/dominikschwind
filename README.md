@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [The Endless Museum - 3D Wikipedia Game](https://theendlessmuseum.com/)
+- [Writing](https://lostfocus.de/2026/11/07/writing/)
 - [2026-W44: Mechanisms](https://lostfocus.de/2026/11/02/2026-w44-mechanisms/)
 - [Hehehe](https://dominik.photos/photo/IDrvBlcSU2)
 - [Dreams DO come true](https://dominik.photos/photo/hGuBvQ85Ws)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Okay!](https://dominik.photos/photo/SiOIszOMIv)
 - [Sei nicht wie er](https://dominik.photos/photo/ZTRMUPd7wV)
 - [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
-- [October 29th to October 30th](https://lostfocus.de/2026/10/30/october-29th-to-october-30th/)
-- [Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
 <!-- POST-LIST:END -->

@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
+- [Why GTA5 Hides Its Best Details](https://www.youtube.com/watch?v=B399N-gqjR0)
 - [The Endless Museum - 3D Wikipedia Game](https://theendlessmuseum.com/)
 - [Writing](https://lostfocus.de/2026/11/07/writing/)
 - [2026-W44: Mechanisms](https://lostfocus.de/2026/11/02/2026-w44-mechanisms/)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Wheeee](https://dominik.photos/photo/KeG5Q8YFGz)
 - [Konsumation](https://dominik.photos/photo/LswpHOn63V)
 - [Okay!](https://dominik.photos/photo/SiOIszOMIv)
-- [Sei nicht wie er](https://dominik.photos/photo/ZTRMUPd7wV)
-- [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 <!-- POST-LIST:END -->

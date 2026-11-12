@@ -7,6 +7,7 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
 - [Something watched you this week.](https://www.watched.earth/)
 - [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
 - [Why GTA5 Hides Its Best Details](https://www.youtube.com/watch?v=B399N-gqjR0)
@@ -16,5 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Hehehe](https://dominik.photos/photo/IDrvBlcSU2)
 - [Dreams DO come true](https://dominik.photos/photo/hGuBvQ85Ws)
 - [Wheeee](https://dominik.photos/photo/KeG5Q8YFGz)
-- [Konsumation](https://dominik.photos/photo/LswpHOn63V)
 <!-- POST-LIST:END -->

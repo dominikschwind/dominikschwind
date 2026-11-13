@@ -7,6 +7,9 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [Underworld Live at EDC Las Vegas 2026 &lpar;Official Full Set&rpar;](https://www.youtube.com/watch?v=4wzyC3J6-NU)
+- [Over The Hill Is Also A Game For Drivers, Not Racers](https://aftermath.site/over-the-hill-is-also-a-game-for-drivers-not-racers/)
+- [James Acaster Tribute Act Craig Simons Talks Being Mistaken for the Real James Acaster &lpar;Extended&rpar;](https://www.youtube.com/watch?v=29n12lidtSo)
 - [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
 - [Something watched you this week.](https://www.watched.earth/)
 - [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
@@ -14,7 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [The Endless Museum - 3D Wikipedia Game](https://theendlessmuseum.com/)
 - [Writing](https://lostfocus.de/2026/11/07/writing/)
 - [2026-W44: Mechanisms](https://lostfocus.de/2026/11/02/2026-w44-mechanisms/)
-- [Hehehe](https://dominik.photos/photo/IDrvBlcSU2)
-- [Dreams DO come true](https://dominik.photos/photo/hGuBvQ85Ws)
-- [Wheeee](https://dominik.photos/photo/KeG5Q8YFGz)
 <!-- POST-LIST:END -->

@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [E8](https://dominik.photos/photo/AV8s1igzRC)
+- [2026-W46: Time flies. So does fruit.](https://lostfocus.de/2026/11/15/2026-w46-time-flies-so-does-fruit/)
 - [Foggy evening walk](https://dominik.photos/photo/6M6gxZbenF)
 - [Foggy evening walk](https://dominik.photos/photo/i2lDfaj7G4)
 - [Foggy evening walk](https://dominik.photos/photo/Kep5Q8YFGz)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [Over The Hill Is Also A Game For Drivers, Not Racers](https://aftermath.site/over-the-hill-is-also-a-game-for-drivers-not-racers/)
 - [James Acaster Tribute Act Craig Simons Talks Being Mistaken for the Real James Acaster &lpar;Extended&rpar;](https://www.youtube.com/watch?v=29n12lidtSo)
 - [POIs and POI categories](https://lostfocus.de/2026/11/12/pois-and-poi-categories/)
-- [Something watched you this week.](https://www.watched.earth/)
-- [2026-W45: Aged Like Milk](https://lostfocus.de/2026/11/08/2026-w45-aged-like-milk/)
 <!-- POST-LIST:END -->

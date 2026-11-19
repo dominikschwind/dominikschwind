@@ -7,6 +7,8 @@ and OpenSource things.
 And yet, here is what I have done on my blog, my linkblog and my photoblog:
 
 <!-- POST-LIST:START -->
+- [last.fm API](https://lostfocus.de/2026/11/18/last-fm-api/)
+- [Still burning](https://lostfocus.de/2026/11/18/still-burning/)
 - [Content](https://lostfocus.de/2026/11/17/content/)
 - [New James Bond announced ... and the name’s Pattinson, Robert Pattinson](https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson)
 - [Campus](https://dominik.photos/photo/l2PiGAYKIU)
@@ -15,6 +17,4 @@ And yet, here is what I have done on my blog, my linkblog and my photoblog:
 - [2026-W46: Time flies. So does fruit.](https://lostfocus.de/2026/11/15/2026-w46-time-flies-so-does-fruit/)
 - [Foggy evening walk](https://dominik.photos/photo/6M6gxZbenF)
 - [Foggy evening walk](https://dominik.photos/photo/i2lDfaj7G4)
-- [Foggy evening walk](https://dominik.photos/photo/Kep5Q8YFGz)
-- [Scientists Made Monkeys Watch Minions to Study Their Brains](https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/)
 <!-- POST-LIST:END -->
